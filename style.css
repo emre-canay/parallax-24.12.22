@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+main div {
+  width: 100vw;
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.7;
+}
+
+.yazılar {
+  height: 296px;
+  line-height: 2;
+  padding: 0.1px;
+  padding-bottom: 30px;
+}
+
+.yazılar h2 {
+  margin-top: 50px;
+  font-weight: 600;
+}
+
+.yazılar p {
+  margin: 10px 80px;
+}
+
+/*!------ div1 başlangıç-------*/
+
+.div1 {
+  height: 125vh;
+  background-image: url("./img/bg.jpg");
+  padding: 0.1px;
+}
+
+.div1 h1 {
+  color: white;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.903);
+  font-size: 48px;
+  letter-spacing: 8px;
+  padding: 20px;
+  line-height: 80px;
+  margin: 591px auto;
+  width: 422px;
+  outline: 8px inset #a64da6;
+  outline-offset: 16px;
+  border-radius: 32px 0 32px 0;
+  font-weight: 500;
+}
+
+.div1-div1 {
+  height: 20vh;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+/*!------ div1 bitiş-------*/
+
+/*!------ div2 başlangıç-------*/
+
+.div2 {
+  background-image: url("./img/bg2.jpg");
+}
+
+/*!------ div2 bitiş-------*/
+
+/*!------ div3 başlangıç-------*/
+
+.div3 {
+  background-image: url("./img/bg3.jpg");
+}
+
+/*!------ div3 bitiş-------*/
+
+/*!------ div4 başlangıç-------*/
+
+.div4 {
+  background-image: url("./img/bg4.jpg");
+}
+
+/*!------ div4 bitiş-------*/
+
+/*!------ div5 başlangıç-------*/
+
+.div5 {
+  background-image: url("./img/bg1.jpg");
+}
+
+/*!------ div5 bitiş-------*/
